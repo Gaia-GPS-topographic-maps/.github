@@ -8,7 +8,7 @@ Gaia GPS supports a calm planning routine. Open the map, review Gaia GPS topogra
 
 For anyone who searches Gaia GPS review, Gaia GPS features, or Gaia GPS for hiking, the goal is usually the same: a dependable outdoor map that works when it is needed. Gaia GPS keeps that process readable, with clear layers, simple controls, and a steady focus on Gaia GPS topographic maps and Gaia GPS hiking trails.
 
-![Gaia GPS](https://avatars.mds.yandex.net/i?id=389efa0ab0e5cfb70e79ab876bb5624c1b517a6c-5843049-images-thumbs&n=13)
+![Gaia GPS](https://avatars.mds.yandex.net/i?id=a450c5173f22c730386e6130469bb71c8a3e3c8a-8311701-images-thumbs&n=13)
 
 ---
 
