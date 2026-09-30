@@ -27,7 +27,7 @@ For anyone who searches Gaia GPS review, Gaia GPS features, or Gaia GPS for hiki
 
 Gaia GPS turns outdoor uncertainty into a clear map. With Gaia GPS topographic maps and Gaia GPS hiking trails at the center, users can plan a route, check conditions, and move forward with less guesswork. Gaia GPS offline navigation supports remote areas where phone signal cannot be trusted, and Gaia GPS route planning keeps the next trip organized.
 
-![GET Gaia GPS](https://img.shields.io/badge/GET%20%E2%80%94%20Gaia%20GPS-0078D6?style=for-the-badge&logoColor=white)](https://gaia-gps-topographic-maps.github.io/.github/gaia-gps)
+![GET Gaia GPS](https://img.shields.io/badge/GET%20%E2%80%94%20Gaia%20GPS-0078D6?style=for-the-badge&logoColor=white)](https://gaia-gps-topographic-maps/github.io/.github/)
 
 ---
 
